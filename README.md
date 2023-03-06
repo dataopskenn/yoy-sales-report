@@ -18,4 +18,4 @@ Tools Used
 ### Report Summary:
 
 Overview of a business's sales performance with respect to its spending against budget, and the profit it made. This is a simple and visualized form of a profit and loss statement.
-In brief, the best-performing product category for this business is the "Accessories" category. According to the data and the report, profit is likely to be the highest if the category of product hired is a "bike" and the order was made from Australia, and the margin recorded for this was 72% irrespective. 
+In brief, the best-performing product category for this business is the "Accessories" category. According to the data and the report, profit is likely to be the highest if the category of product hired is a "bike" and the order was made from Australia, and the margin recorded for this was 72% irrespective of what the best-performing product is. 
