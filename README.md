@@ -1,4 +1,5 @@
-![Front Page](https://github.com/dataopskenn/yoy-sales-report/blob/main/images/adventureworks_sales.png)
+## Data schema for this report 
+![Svhema Image Page](https://github.com/dataopskenn/yoy-sales-report/blob/main/images/schema image.png)
 
 # yoy-sales-report
 PowerBI sales report using the AdventureWorks Data Warehouse 2019 data
@@ -13,6 +14,8 @@ Tools Used
 - Deneb
 
 [Link to PowerBI report](https://app.powerbi.com/view?r=eyJrIjoiZDAxNjI3ZjItZDJlZS00YTJmLTg3YTgtMjc1NWE2NDYyYzE2IiwidCI6IjliNTk3NjNmLTc2NDktNDM0Zi1iNGJmLWRmYTg3NGU4OGY4NyJ9)
+
+![Front Page](https://github.com/dataopskenn/yoy-sales-report/blob/main/images/adventureworks_sales.png)
 
 
 ### Report Summary:
