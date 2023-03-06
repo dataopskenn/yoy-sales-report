@@ -1,5 +1,5 @@
 ## Data schema for this report 
-![Svhema Image Page](https://github.com/dataopskenn/yoy-sales-report/blob/main/images/schema image.png)
+![Schema Image Page](https://github.com/dataopskenn/yoy-sales-report/blob/main/images/schema image.png)
 
 # yoy-sales-report
 PowerBI sales report using the AdventureWorks Data Warehouse 2019 data
