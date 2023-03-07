@@ -10,10 +10,10 @@ Tools Used
 - Microsoft SSMS
 - Microsoft Azure Data Studio
 - Figma
-- Microsft Power Business Intelligence
+- Microsoft Power Business Intelligence
 - Deneb
 
-[Link to PowerBI report](https://app.powerbi.com/view?r=eyJrIjoiZDAxNjI3ZjItZDJlZS00YTJmLTg3YTgtMjc1NWE2NDYyYzE2IiwidCI6IjliNTk3NjNmLTc2NDktNDM0Zi1iNGJmLWRmYTg3NGU4OGY4NyJ9)
+# [Link to PowerBI report](https://app.powerbi.com/view?r=eyJrIjoiZDAxNjI3ZjItZDJlZS00YTJmLTg3YTgtMjc1NWE2NDYyYzE2IiwidCI6IjliNTk3NjNmLTc2NDktNDM0Zi1iNGJmLWRmYTg3NGU4OGY4NyJ9)
 
 ![Front Page](https://github.com/dataopskenn/yoy-sales-report/blob/main/images/adventureworks_sales.png)
 
